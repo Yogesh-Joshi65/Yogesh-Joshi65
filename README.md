@@ -6,10 +6,10 @@
 
 ### 🚀 Software Developer | Competitive Programmer
 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:yourmail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1659_Rating-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-2★_1488-5B4638?style=for-the-badge\&logo=codechef)](https://codechef.com/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ytjoshi32@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yogesh-joshi-7a6487292/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1659_Rating-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/https://leetcode.com/u/rvB3OufynB/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-2★_1488-5B4638?style=for-the-badge\&logo=codechef)](https://www.codechef.com/users/pseudo_chef065)
 
 </div>
 
@@ -17,10 +17,11 @@
 
 # 🎯 About Me
 
-🎓 **B.Tech IT @ Walchand College of Engineering, Sangli**
+🎓 **TY IT @ Walchand College of Engineering, Sangli**
 💻 Passionate about **Backend Systems, Full-Stack Development, and DSA**
 🏆 **Finalist — Walchand Imagine Cup 2026 (Rank 9 / 750+ teams)**
 🏆 **Finalist — TechSprint Hackathon 2026**
+🏆 **Runner Up — WCE Codechef Chapter - CookBoook 2026**
 🧠 Solved **500+ Data Structures & Algorithms problems**
 
 ---
@@ -59,18 +60,6 @@ Real-time coding battle system.
 
 ---
 
-### 📊 Log Monitoring System
-
-Backend tool for **real-time log analysis and anomaly detection**
-
-**Tech Stack**
-
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker)
-
-• Automated log parsing
-• Real-time alert generation
-• Containerized deployment
 
 ---
 
@@ -102,32 +91,12 @@ Backend tool for **real-time log analysis and anomaly detection**
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" height="170"/>
-
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 📬 Let's Connect
 
 💼 Open to **Software Development Opportunities**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME\&color=blueviolet\&style=flat-square)
+![Profile Views](https://www.linkedin.com/in/yogesh-joshi-7a6487292/)
 
 </div>
