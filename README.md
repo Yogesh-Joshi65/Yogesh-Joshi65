@@ -10,6 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yogesh-joshi-7a6487292/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-1659_Rating-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/rvB3OufynB/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-2★_1488-5B4638?style=for-the-badge\&logo=codechef)](https://www.codechef.com/users/pseudo_chef065)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://yogesh-joshi-portfolio.netlify.app/)
 
 </div>
 
