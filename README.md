@@ -2,95 +2,118 @@
 
 # 👋 Yogesh Tukaram Joshi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DSA+Enthusiast;Building+Scalable+Systems;500%2B+DSA+Problems+Solved" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Backend+Focused+Developer;DSA+Enthusiast;Building+Scalable+Systems;500%2B+Problems+Solved" />
 
 ### 🚀 Software Developer | Competitive Programmer
 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ytjoshi32@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yogesh-joshi-7a6487292/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yogesh-joshi-7a6487292/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-1659_Rating-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/rvB3OufynB/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-2★_1488-5B4638?style=for-the-badge\&logo=codechef)](https://www.codechef.com/users/pseudo_chef065)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://yogesh-joshi-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge\&logo=firefox-browser\&logoColor=white)](https://yogesh-joshi-portfolio.netlify.app/)
 
 </div>
 
 ---
 
-# 🎯 About Me
+## 🎯 About Me
 
-🎓 **TY IT @ Walchand College of Engineering, Sangli**
-💻 Passionate about **Backend Systems, Full-Stack Development, and DSA**
-🏆 **Finalist — Walchand Imagine Cup 2026 (Rank 9 / 750+ teams)**
-🏆 **Finalist — TechSprint Hackathon 2026**
-🥈 **Runner Up — WCE CodeChef Chapter CookBook 2026**
-🧠 Solved **500+ Data Structures & Algorithms problems**
+* 🎓 TY IT @ Walchand College of Engineering, Sangli
+* 💻 Focused on **Backend Systems & Scalable Architectures**
+* 🧠 Solved **500+ DSA problems** across platforms
+* 🏆 Finalist — Walchand Imagine Cup 2026 *(Top 9 / 750+ teams)*
+* 🏆 Finalist — TechSprint Hackathon 2026
+* 🥈 Runner Up — WCE CodeChef CookBook 2026
 
 ---
 
-# 💼 Featured Projects
+## 🚀 Featured Projects
 
-### 🌾 Crop Quality Analysis System
+### ⚙️ Multithreaded Task Scheduler
 
-Machine Learning powered platform for **automated agricultural crop evaluation**
-
-**Tech Stack**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python)
-
-• Upload crop images and analyze quality
-• ML model inference integrated with backend
-• Web interface for automated prediction
+* Built a **C++ thread pool scheduler** with priority + aging
+* Implemented **task cancellation & timeout handling**
+* Added **real-time CLI dashboard (throughput, latency)**
 
 ---
 
 ### ⚔️ 1v1 Coding Platform
 
-Real-time coding battle system.
-
-**Tech Stack**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb)
-
-• Competitive coding battles
-• Real-time problem evaluation
-• Matchmaking and leaderboard
+* Real-time coding battle platform
+* Matchmaking + leaderboard system
+* Backend-driven evaluation system
 
 ---
 
-# 🛠 Tech Stack
+### 🌾 Crop Quality Analysis System
 
-### Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript)
-
-### Frameworks
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql)
-
-### Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux)
+* ML-powered crop evaluation platform
+* Image-based prediction system
+* Integrated Python ML model with backend
 
 ---
 
-# 📬 Let's Connect
+## 🛠 Tech Stack
 
-💼 Open to **Software Development Opportunities**
+### 💻 Languages
 
-![Profile Views](https://komarev.com/ghpvc/?username=ytjoshi32\&color=blueviolet\&style=flat-square)
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
+</p>
+
+### ⚙️ Backend & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🧰 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ytjoshi32&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytjoshi32&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ytjoshi32&theme=tokyo-night&hide_border=true"/>
+
+---
+
+## 🎯 Current Focus
+
+* 🚀 Strengthening **DSA & problem-solving**
+* ⚙️ Deepening **backend system design**
+* 🧠 Exploring **low-level system concepts (OS, concurrency)**
+
+---
+
+## 📬 Let's Connect
+
+* 💼 Open to **Software Development Internships & Full-time Roles**
+* 📧 Email: **[ytjoshi32@gmail.com](mailto:ytjoshi32@gmail.com)**
+
+---
+
+<div align="center">
+
+⭐ *Always building. Always improving.*
+
+</div>
